@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, Politics & Hardcore Music
 - 🌱 I’m currently learning everythin DevOps & Go
 - 💞️ I’m looking to collaborate on interesting projects. 
-- 📫 How to reach me @ michal.tech
+- 📫 reach me at www.michal.tech
 
 <!---
 hardrave/hardrave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
