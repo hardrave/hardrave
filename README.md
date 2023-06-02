@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michal
 - 👀 I’m interested in Coding, Politics & Hardcore Music
-- 🌱 I’m currently learning everything about DevOps & Go lang.
+- 🌱 I’m a DevOps Engineer. 
 - 💞️ I’m looking to collaborate on interesting projects. 
 - 📫 reach me at www.michal.tech
 
