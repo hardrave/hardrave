@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michal
 - 👀 I’m interested in Coding, Politics & Hardcore Music
-- 🌱 I’m a Java Developer / DevOps Engineer. 
+- 🌱 I’m a DevOps Engineer. 
 
 <!---
 hardrave/hardrave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
