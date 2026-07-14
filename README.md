@@ -26,10 +26,10 @@ I'm a Senior Software Engineer in banking, building the data-quality and AI-gove
 
 ## Toolbox
 
-- **Languages** — Java, Python, SQL, Bash
-- **LLM & ML** — PyTorch, Hugging Face Transformers, fine-tuning & knowledge distillation, RAG, llama.cpp, vLLM, Ollama, CUDA, KV-cache internals
-- **Cloud & Infra** — GCP (Certified Associate Cloud Engineer), AWS, Kubernetes, Docker, Terraform, Ansible
-- **Systems & Data** — HPC grid computing, gRPC, Redis, UEFI / bare-metal, embedded Linux
+- **Languages:** Java, Python, SQL, Bash
+- **LLM & ML:** PyTorch, Hugging Face Transformers, fine-tuning & knowledge distillation, RAG, llama.cpp, vLLM, Ollama, CUDA, KV-cache internals
+- **Cloud & Infra:** GCP (Certified Associate Cloud Engineer), AWS, Kubernetes, Docker, Terraform, Ansible
+- **Systems & Data:** HPC grid computing, gRPC, Redis, UEFI / bare-metal, embedded Linux
 
 ---
 
